@@ -205,18 +205,13 @@ const GRADINGS = [
       },
     ],
   },
-  {
-    id: "palaro",
-    name: "PALARO",
-    short: "PALARO",
-    type: "links",
-    sub: "Maglaro habang nagre-review. Bubukas ang laro sa bagong tab.",
-    items: [
-      {
-        title: "Sample na Laro 1",
-        url: "https://giveorkeep.teacherkhen.com/",
-        desc: "Palitan ito ng totoong link at paliwanag.",
-      },
-    ],
-  },
+  { id:"palaro", name:"PALARO", short:"PALARO", type:"links",
+    sub:"Maglaro habang nagre-review.",
+    items:[
+      { title:"Give or Keep: Unang Markahan", game:"files/palaro/q1-give-or-keep-setup.json",
+        desc:"Laro ng dalawang team. Review sa Unang Markahan." },
+      { title:"Give or Keep: Ikalawang Markahan", game:"files/palaro/q2-give-or-keep-setup.json",
+        desc:"Laro ng dalawang team. Review sa Ikalawang Markahan." }
+    ]
+  }
 ];
