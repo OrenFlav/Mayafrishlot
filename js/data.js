@@ -214,7 +214,7 @@ const GRADINGS = [
     items: [
       {
         title: "Sample na Laro 1",
-        url: "https://l.facebook.com/l.php?u=https%3A%2F%2Fteacherkhenlearninghub.blogspot.com%2F2026%2F06%2Fgive-or-keep-classroom-game-for-eslefl.html%3Fm%3D1%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETEzVWZjemN6WWQybjJ6UnU2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmfw6Fa9gubp5UhnDtdy_sde9qaJH9XtRQRNxZ2IYq8tS8IQUyp39Qaewugy_aem_qjgFisYX1a4OPxL7yvCUpg&h=AUAjV87U6v9GTibsTC3Zr0T2oRp6JOg1PZwMzBslLatxJDz338CL5IwyJDqNg-VOmKMyFvXWqEIWMeRQ-m6lOprsgKFA8QfCLHJlPhanR79qtFrvp4VXiSvvKExpuL3g9iVVyA",
+        url: https://giveorkeep.teacherkhen.com/,
         desc: "Palitan ito ng totoong link at paliwanag.",
       },
     ],
