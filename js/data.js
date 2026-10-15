@@ -214,7 +214,7 @@ const GRADINGS = [
     items: [
       {
         title: "Sample na Laro 1",
-        url: https://giveorkeep.teacherkhen.com/,
+        url: "https://giveorkeep.teacherkhen.com/",
         desc: "Palitan ito ng totoong link at paliwanag.",
       },
     ],
