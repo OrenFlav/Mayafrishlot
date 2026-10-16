@@ -211,7 +211,11 @@ const GRADINGS = [
       { title:"Give or Keep: Unang Markahan", game:"files/palaro/q1-give-or-keep-setup.json",
         desc:"Laro ng dalawang team. Review sa Unang Markahan." },
       { title:"Give or Keep: Ikalawang Markahan", game:"files/palaro/q2-give-or-keep-setup.json",
-        desc:"Laro ng dalawang team. Review sa Ikalawang Markahan." }
+        desc:"Laro ng dalawang team. Review sa Ikalawang Markahan." ,
+       { title:"Give or Keep: Ikatlong Markahan", game:"files/palaro/q3-give-or-keep-setup.json",
+        desc:"Laro ng dalawang team. Review sa Unang Markahan." },
+       { title:"Give or Keep: Ika Apat na Markahan", game:"files/palaro/q4-give-or-keep-setup.json",
+        desc:"Laro ng dalawang team. Review sa Unang Markahan." }
     ]
   }
 ];
